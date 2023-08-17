@@ -45,4 +45,4 @@ If you would like to contribute to the todo app, please fork the repository and 
 
 ### License
 
-The todo app is licensed under the MIT License.
+The holidayplaning-pern-stack app is licensed under the MIT License.
